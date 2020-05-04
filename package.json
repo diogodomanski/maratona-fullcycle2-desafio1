@@ -1,0 +1,13 @@
+{
+  "name": "maratona-fullcycle2-desafio1",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Diogo Domanski de Souza",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js" 
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
